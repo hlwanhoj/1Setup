@@ -7,7 +7,7 @@ This `setup.sh` script automates the installation of various tools and applicati
 To run the script, simply execute it in your terminal:
 
 ```bash
-./setup.sh
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/hlwanhoj/1Setup/refs/heads/main/setup.sh)"
 ```
 
 ## Tools and Applications Installed
